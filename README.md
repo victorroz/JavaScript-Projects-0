@@ -1,0 +1,1 @@
+This repository contains 10 JavaScript Projects following the tutorial on [Florin Pop's](https://youtu.be/dtKciwk_si4) YouTube channel.
